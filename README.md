@@ -1,10 +1,9 @@
-# web_scraping_challenge
 
 -----------------------------------------------------------------------------------------------------------
 Overview
 -----------------------------------------------------------------------------------------------------------
 
-  This assignment consists of two technical product containing the following deliverables:
+Consists of two technical product containing the following deliverables:
 
 Deliverable 1: Scrape titles and preview text from Mars news articles.
 Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
